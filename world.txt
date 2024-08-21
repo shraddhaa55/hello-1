@@ -1,0 +1,10 @@
+<!doc type html>
+<html>
+<head>
+<title><b><i>MY 1ST PROGRAM</i></b></title>
+<body>
+<h1>
+<p><i><b>HELLO WORLD ^_^ </b></i></p>
+</h1>
+</body>
+</html>
